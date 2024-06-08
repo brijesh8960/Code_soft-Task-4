@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+.backgraund_page{
+background-color: rgb(46, 197, 103);
+text-align: center;
+padding:5% 5% 5% 5%;
+font-family: cursive;
+
+}
+.into_backgraund{
+    background-color: rgb(11, 175, 74);
+    margin:5% 5% 5% 5%;
+    border-color: rgb(23, 28, 26);
+    border: 2% thick;
+    padding:5% 5% 5% 5%;
+    align-items: center;
+    text-align: center;
+    font: 120%;
+    box-shadow: 10px 5px 5px rgb(222, 237, 168);
+    font-family: cursive;
+}
+.paragraph{
+    row-gap: 5%;
+    gap: 2%;
+    font-size: 120%;
+}
